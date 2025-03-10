@@ -40,4 +40,4 @@
 2. Usa un ciclo `for` per trovare sia il masssimo che la posizione (indice) che questo occupa all'interno della lista
 3. Stampa su schermo i due interi ottenuti (massimo e posizione)
 4. Usa un ciclo `while` per trovare sia il minimo che la posizione (indice) che questo occupa all'interno della lista
-5. 3. Stampa su schermo i due interi ottenuti (minimo e posizione)
+5. Stampa su schermo i due interi ottenuti (minimo e posizione)
