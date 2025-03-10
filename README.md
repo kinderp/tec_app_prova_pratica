@@ -33,4 +33,11 @@
 3. Chiudi il file
 4. Riapri il file in lettura
 5. Leggi il contenuto e stampalo su schermo con funzione `print`
-## ES4
+
+## ES5
+
+1. Dichiara una lista in questo modo: `L = [1,3,11,87,6,-4,0, 77, 42, -3]`
+2. Usa un ciclo `for` per trovare sia il masssimo che la posizione (indice) che questo occupa all'interno della lista
+3. Stampa su schermo i due interi ottenuti (massimo e posizione)
+4. Usa un ciclo `while` per trovare sia il minimo che la posizione (indice) che questo occupa all'interno della lista
+5. 3. Stampa su schermo i due interi ottenuti (minimo e posizione)
